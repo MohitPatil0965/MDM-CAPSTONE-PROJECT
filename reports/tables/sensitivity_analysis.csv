@@ -1,0 +1,13 @@
+Experiment,Parameter_Value,Expected_Conversions,CLV_Gain_$,ROI,CPA_$
+Budget Scaling,$1000,436.51,518081.16,3.8016,2.29
+Budget Scaling,$2500,669.0,750797.74,1.9436,3.74
+Budget Scaling,$4000,791.13,836791.02,1.1756,5.06
+Budget Scaling,$5000,845.37,876591.93,0.8598,5.91
+Budget Scaling,$6000,889.86,898584.74,0.6314,6.74
+Budget Scaling,$7500,937.84,922421.44,0.3755,8.0
+Budget Scaling,$10000,992.69,922922.47,0.092,10.07
+Channel Contact Cost Shift,-30%,927.5,917256.72,1.0405,5.39
+Channel Contact Cost Shift,-15%,884.99,896568.13,0.947,5.65
+Channel Contact Cost Shift,+0%,845.37,876591.93,0.8598,5.91
+Channel Contact Cost Shift,+15%,811.22,851544.77,0.7847,6.16
+Channel Contact Cost Shift,+30%,781.82,832173.2,0.72,6.4

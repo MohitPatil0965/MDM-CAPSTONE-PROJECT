@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Model Performance Survey Comparison Across AI Classifiers}
+\label{tab:model_survey}
+\begin{tabular}{llrrr}
+\toprule
+Model & CV_ROC_AUC & Test_ROC_AUC & Test_PR_AUC & Train_Time_s \\
+\midrule
+Logistic Regression & 0.8379 ± 0.0335 & 0.798500 & 0.436000 & 8.140000 \\
+Random Forest & 0.8783 ± 0.0139 & 0.866800 & 0.572100 & 4.640000 \\
+XGBoost & 0.8983 ± 0.0125 & 0.901700 & 0.636600 & 2.130000 \\
+CatBoost & 0.9043 ± 0.0131 & 0.904000 & 0.627100 & 6.940000 \\
+LightGBM (Tuned & Safeguarded) & 0.9091 ± 0.0128 & 0.905700 & 0.663800 & 0.450000 \\
+\bottomrule
+\end{tabular}
+\end{table}

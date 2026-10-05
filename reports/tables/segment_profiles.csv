@@ -1,0 +1,4 @@
+Segment_ID,Persona,Customer_Count,Share_Pct,Mean_Income,Mean_Total_Spend,Mean_Purchases,Mean_Recency,Mean_Web_Visits,Mean_Age,Observed_Response_Rate_Pct
+0,Price-Sensitive Deal Seekers,789,35.29,31578.79,104.96,5.97,50.23,6.93,37.44,11.15
+1,High-Value Loyalists,855,38.24,72960.46,1249.45,19.67,50.08,3.51,45.98,21.75
+2,Mid-Tier Core Segment 3,592,26.48,48776.44,344.41,11.02,46.23,5.79,54.05,10.14
